@@ -1,3 +1,35 @@
 p {
-    color: red;
+  margin-top: 0px;
+}
+
+h1 {
+  color: #303C53;
+  border-bottom-color: #B03D55;
+  border-bottom-style: solid;
+  text-align: center;
+}
+
+h2 {
+  color: #303C53;
+  border-bottom-color: #B03D55;
+  border-bottom-style: solid;
+  margin-bottom: 0px;
+}
+
+body {
+  background-color: #F3F6F6;
+  max-width: 800px;
+  margin: auto;
+  color: #313031;
+}
+
+section {
+  margin-bottom: 5px;
+  padding-left: 1em;
+  padding-right: 1em;
+  text-align: justify;
+}
+
+#dato {
+  float: right;
 }
