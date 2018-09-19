@@ -2,25 +2,30 @@ p {
   margin-top: 0px;
 }
 
+body {
+  background-color: #F3F3F3;
+  max-width: 800px;
+  margin: auto;
+  color: #475351;
+}
+
 h1 {
-  color: #303C53;
-  border-bottom-color: #B03D55;
+  color: #498E33;
+  border-bottom-color: #CEDC3F;
   border-bottom-style: solid;
   text-align: center;
 }
 
 h2 {
-  color: #303C53;
-  border-bottom-color: #B03D55;
+  color: #498E33;
+  border-bottom-color: #CEDC3F;
   border-bottom-style: solid;
   margin-bottom: 0px;
 }
 
-body {
-  background-color: #F3F6F6;
-  max-width: 800px;
-  margin: auto;
-  color: #313031;
+h3 {
+  color: #475351;
+  margin: 0 0 0 0;
 }
 
 section {
