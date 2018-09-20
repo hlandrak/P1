@@ -38,3 +38,9 @@ section {
 #dato {
   float: right;
 }
+
+footer {
+  font-size: 90%;
+  margin-top: 40px;
+  text-align: center;
+}
